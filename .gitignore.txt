@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+ZaneginaGit.csproj
+ZaneginaGit.sln
+obj/
