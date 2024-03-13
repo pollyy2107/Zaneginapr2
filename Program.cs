@@ -10,9 +10,9 @@ namespace ZaneginaGit
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            int b = 6;
-            Console.WriteLine($"Результат: {a * b}");
+            int c = 10;
+            int d = 6;
+            Console.WriteLine($"Результат: {c * d}");
         }
     }
 }
